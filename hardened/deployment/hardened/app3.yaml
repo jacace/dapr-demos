@@ -18,7 +18,7 @@ spec:
         demo: hardened
       annotations:
         dapr.io/enabled: "true"
-        dapr.io/app-id: "app3"
+        dapr.io/app-id: "app3-THIS IS A STATIS APPID!!" 
         dapr.io/app-protocol: "http"
         dapr.io/app-port: "8083"
         dapr.io/config: "app3-config"
